@@ -13,6 +13,7 @@ Optimizing the given strategy to achieve better trading results:
 2) Changing the rebalancing frequency
 3) Changing the lookback period
 4) Changing the asset allocation models (available within PyPortfolioOpt)
+5) Changing commission rates - flat rates/percentage rates.
 
 
 
